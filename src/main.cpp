@@ -1,7 +1,7 @@
 // Copyright TimurZaytsev 2021
+#include <time.h>
 #include <iostream>
 #include <string>
-#include <time.h>
 
 #include "train.h"
 
